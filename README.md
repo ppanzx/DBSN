@@ -2,7 +2,7 @@
 
 **Hubness Reduction with Dual Bank Sinkhorn Normalization for Cross-Modal Retrieval**<br>
 Zhengxin Pan, Haishuai Wang, Fangyu Wu, Peng Zhang, Jiajun Bu
-<br>https://arxiv.org/abs/2507.00364<br>
+<br>https://arxiv.org/abs/2508.02538<br>
 
 ## Requirements and Installation
 We recommended the following dependencies.
